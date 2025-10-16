@@ -6,7 +6,7 @@ Esse projeto reúne uma série de **mini projetos** que vão desde desafios de *
 
 O foco principal aqui é **ajudar iniciantes** na programação. Se você está começando agora, esse repositório pode ser um bom ponto de partida. Você vai poder **alterar o código**, **testar** e **aprender** na prática, sem grandes complicações.
 
-Apesar de o foco ser para iniciantes, qualquer pessoa pode dar uma olhada e aproveitar o conteúdo — até quem já tem experiência vai achar algo legal para explorar.
+Apesar do foco ser para iniciantes, qualquer pessoa pode dar uma olhada e aproveitar o conteúdo — até quem já tem experiência vai achar algo legal para explorar.
 
 ## Sobre o Autor
 
